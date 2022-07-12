@@ -1,0 +1,44 @@
+.ListaRestaurantes {
+  margin-top: 1.5rem;
+  padding: 2rem;
+}
+
+.buttons {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.back {
+  border: none;
+  width: 80px;
+  padding: 10px;
+  box-shadow: 1px 1px 3px #00000049;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.back:hover {
+  background-color: #e0e0e0;
+  cursor: pointer;
+}
+
+.search-bar {
+  margin-bottom: 10px;
+  width: 200px;
+  padding: 10px;
+  font-size: 16px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid black;
+  font-weight: bold;
+  background-color: #ececec;
+}
+
+.search-type {
+  margin-bottom: 10px;
+  width: 160px;
+  padding: 5px;
+}
